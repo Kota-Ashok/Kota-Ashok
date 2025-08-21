@@ -10,9 +10,9 @@
 - ⚡ Skilled in **Django, React.js, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible**  
 - 🎯 Interested in **Full Stack Web Development & Cloud Engineering**  
 - 💬 Ask me about **CI/CD, AWS Cloud Migration, and Full Stack Development**  
-- 📫 Reach me at: **ashokreddykota95@gmail.com**  
+- 📫 Reach me at: **kotaashok543@gmail.com**  
 - 🌐 Portfolio: [https://kota-ashok.github.io/Portfolio](https://kota-ashok.github.io/Portfolio)  
-- 🔗 LinkedIn: [linkedin.com/in/ashok-kota](https://www.linkedin.com/in/ashok-kota/)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/kota-ashok-reddy/](https://www.linkedin.com/in/kota-ashok-reddy/))  
 
 ---
 
