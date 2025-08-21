@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on <a href="https://kota-ashok.github.io/blog/">Visit My Blog</a><br>
 - 💬 Ask me about **React, Django, DevOps, CI/CD, AWS, Docker, Kubernetes**<br>
 - 📫 How to reach me: **📧 kotaashok543@gmail.com 📱 +91 8688056443**<br>
-- 📄 Know about my experiences: <a https://drive.google.com/file/d/12MJ26Xa-ChKnJhmySm7k99Z63bq81ThB/view?usp=drive_link>View My Resume</a><br>
+- 📄 Know about my experiences: <a herf="https://drive.google.com/file/d/12MJ26Xa-ChKnJhmySm7k99Z63bq81ThB/view?usp=drive_link">View My Resume</a><br>
 - ⚡ Fun fact: **I think I am funny 😄**
 
 <h3 align="left">Connect with me:</h3>
