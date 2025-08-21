@@ -84,7 +84,7 @@
 ## 🤝 Connect with Me  
 
 - 🌐 [Portfolio](https://kota-ashok.github.io/Portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashok-kota/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kota-ashok-reddy/)  
 - 📧 Email: **kotaashok543@gmail.com**  
 
 ---
