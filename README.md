@@ -1,92 +1,139 @@
-# 👋 Hi, I’m **Ashok Kumar Reddy Kota**
+<!-- Header Section -->
+<div align="center">
 
-💻 **Full Stack Developer | Cloud & DevOps Engineer**  
-🚀 Passionate about building **scalable, secure, and cloud-native applications**  
+# 🌟 Ashok Kumar Reddy Kota  
+### Full Stack Developer • Cloud & DevOps Engineer • Python • React • FastAPI • AWS  
 
----
-
-## 🔥 About Me  
-- 🌱 Currently exploring **Cloud-Native Architectures & DevOps Automation**  
-- ⚡ Skilled in **Django, React.js, AWS, Docker, Kubernetes, Jenkins, Terraform, Ansible**  
-- 🎯 Interested in **Full Stack Web Development & Cloud Engineering**  
-- 💬 Ask me about **CI/CD, AWS Cloud Migration, and Full Stack Development**  
-- 📫 Reach me at: **kotaashok543@gmail.com**  
-- 🌐 Portfolio: [https://kota-ashok.github.io/Portfolio](https://kota-ashok.github.io/Portfolio)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/kota-ashok-reddy/](https://www.linkedin.com/in/kota-ashok-reddy/))  
+📍 Hyderabad, India  
+📧 **kotaashok543@gmail.com**  
+📞 **+91 868805643**  
+🌐 **Portfolio:** https://kota-ashok.github.io/Portfolio  
+💼 **LinkedIn:** https://www.linkedin.com/in/kota-ashok-reddy/
 
 ---
 
-## 🛠️ Tech Stack  
+</div>
 
-**Languages & Scripting:**  
-`Python` · `JavaScript` · `Bash`  
+<br/>
 
-**Frameworks & Libraries:**  
-`Django` · `React.js` · `Flask`  
+<!-- Intro -->
+## 👋 Hello There!
 
-**Cloud & DevOps:**  
-`AWS (EC2, RDS, S3, IAM, Route53, CloudWatch, Beanstalk, EKS)` · `Jenkins` · `GitLab CI` · `AWS CodePipeline`  
+I’m **Ashok**, a passionate **Full Stack & Cloud Developer** with **2+ years of experience** building  
+**scalable, cloud-native, real-time, and AI-powered applications**.
 
-**Containerization & IaC:**  
-`Docker` · `Kubernetes (EKS)` · `Ansible` · `Terraform` · `CloudFormation`  
+I build end-to-end solutions — from **backend architecture → frontend UI → cloud deployment → CI/CD automation**.
 
-**Databases:**  
-`MySQL` · `SQLite`  
-
-**Version Control:**  
-`Git` · `GitHub`  
+I enjoy working with **Python, FastAPI, Django, React.js, AWS, WebSockets, Redis, Docker**, and more.
 
 ---
 
-## 🚀 Projects  
+<br/>
 
-### 🔹 [CI/CD Cloud Deployment – VProfile](https://github.com/kota-ashok)  
-- Automated end-to-end CI/CD pipeline using **AWS Elastic Beanstalk, RDS, CodePipeline, CodeBuild**  
-- Reduced release time by 80% with automation-first deployment strategies  
+## ⚡ Tech Expertise
 
-### 🔹 [AWS Cloud Migration & Optimization](https://github.com/kota-ashok)  
-- Migrated legacy apps to AWS with **Auto Scaling, RDS Multi-AZ, Route53**  
-- Achieved **99.95% uptime** and reduced hosting costs by **35%**  
+### 🧠 **Languages**
+`Python` · `JavaScript` · `TypeScript`
 
-### 🔹 [Restaurant Website – Cloud Re-Architecture](https://github.com/kota-ashok)  
-- Re-architected Django restaurant app with **Docker, Kubernetes, AWS Beanstalk**  
-- Implemented **Blue/Green deployments** for zero-downtime upgrades  
+### 🔧 **Backend**
+`FastAPI` · `Django` · `Django REST Framework` · `Flask` · `Node.js`
 
-### 🔹 [Organic Vegies – E-Commerce Platform](https://github.com/kota-ashok)  
-- Full-stack Django e-commerce app with **cart, authentication, and order system**  
+### 🎨 **Frontend**
+`React.js` · `Redux Toolkit` · `Tailwind CSS` · `Gatsby` · `Bootstrap`
 
-### 🔹 [Ashok Hotel Website](https://github.com/kota-ashok)  
-- Full-stack **hotel management system** with room booking and billing  
+### ☁️ **Cloud & DevOps**
+`AWS (EC2, S3, RDS, Lambda, CloudFront, Cognito, IAM)`  
+`Docker` · `GitHub Actions` · `Jenkins` · `AWS CodePipeline`
+
+### 🗄️ **Databases**
+`MySQL` · `MongoDB` · `Redis`
+
+### 🔄 **Real-Time Systems**
+`WebSockets` · `Django Channels` · `Redis`
 
 ---
 
-## 📜 Certifications  
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔹 **Collabryta – AI-Powered Remote Team Collaboration**
+**Tech:** React, FastAPI, Node.js, AWS, AWS Bedrock  
+✔ Real-time chat, video/audio calls  
+✔ AI task insights via AWS Bedrock  
+✔ Cognito authentication  
+✔ Node.js microservices for notifications & calendar  
+✔ S3 + CloudFront for secure file delivery  
+
+---
+
+### 🔹 **OrbitOrg – Multi-Tenant SaaS Platform**
+**Tech:** React, TypeScript, FastAPI, Node.js, MySQL, Docker  
+✔ Multi-tenant dashboards with role-based access  
+✔ High-performance FastAPI microservices  
+✔ Real-time state sync using Redux Toolkit  
+✔ Secure JWT authentication  
+
+---
+
+### 🔹 **Appointment Booking System**
+**Tech:** Django REST, React, Redis, AWS  
+✔ Real-time booking + Redis distributed locks  
+✔ Secure prescription PDF + signed URL  
+✔ Email/SMS/in-app notifications  
+✔ High-performance DB optimization  
+
+---
+
+### 🔹 **E-Commerce Platform**
+**Tech:** Django REST, React, MySQL, AWS  
+✔ Full product catalog, cart, checkout, orders  
+✔ Secure payment integration  
+✔ Admin dashboard for inventory  
+✔ 40% faster APIs with query optimization  
+
+---
+
+<br/>
+
+## 🎓 Education
+
+🎓 **B.Tech in Electrical & Electronics Engineering**  
+Rajeev Gandhi Memorial College of Engineering & Technology (2019–2023)
+
+---
+
+## 📜 Certifications
 
 - Python Programming – Cisco  
+- Full-Stack Django Development – Udemy  
 - AWS Academy Cloud Foundations  
-- Full-Stack Web Development with Django – Udemy  
-- DevOps Mastery (Docker, Kubernetes, Jenkins, Ansible) – Udemy  
+- Docker Essentials – IBM  
+- React – The Complete Guide (Udemy)  
+- Cloud DevOps – Udemy  
+
+
+
+<br/>
+
 
 ---
 
-## 🌱 Interests  
+<br/>
 
-- Cloud Computing (AWS, Azure, GCP)  
-- Full Stack Web Development (Django, React.js, Node.js)  
-- DevOps & CI/CD Automation  
-- Containerization (Docker, Kubernetes)  
-- Infrastructure as Code (Terraform, Ansible)  
-- Open Source Contributions  
+## 🤝 Connect With Me  
 
----
-
-
-## 🤝 Connect with Me  
-
-- 🌐 [Portfolio](https://kota-ashok.github.io/Portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kota-ashok-reddy/)  
-- 📧 Email: **kotaashok543@gmail.com**  
+📧 **Email:** kotaashok543@gmail.com  
+📞 **Phone:** +91 868805643  
+🌐 **Portfolio:** https://kota-ashok.github.io/Portfolio  
+💼 **LinkedIn:** https://www.linkedin.com/in/kota-ashok-reddy  
 
 ---
 
-✨ *Let’s collaborate on cloud-native applications, DevOps pipelines, or full stack projects!* 🚀
+<div align="center">
+  
+### ⭐ If you like my work, don’t forget to star my repositories!
+
+Thanks for visiting! 😊
+
+</div>
