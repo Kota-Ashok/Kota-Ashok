@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🌟 ASHOK KUMAR REDDY KOTA  
-### Backend-Focused Full-Stack Software Engineer • Cloud & AI Systems  
+###  Full-Stack Software Engineer 
 
 📍 Hyderabad, India  
 📧 **kotaashok543@gmail.com**  
