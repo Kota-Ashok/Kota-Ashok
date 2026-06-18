@@ -1,5 +1,5 @@
 <!-- BANNER GRAPHIC -->
-<img src="github_banner.png" width="100%" alt="Ashok Kumar Reddy Kota Banner" style="border-radius: 8px; margin-bottom: 20px;" />
+
 
 <div align="center">
   <h1>⚡ ASHOK KUMAR REDDY KOTA</h1>
