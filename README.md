@@ -3,7 +3,7 @@
 
 <div align="center">
   <h1>⚡ ASHOK KUMAR REDDY KOTA</h1>
-  <p><b>Backend-Focused Full-Stack Software Engineer & Systems Architect</b></p>
+  <p><b>Full-Stack Software Engineer & Systems Architect</b></p>
   
   <p>
     <a href="https://github.com/kota-ashok"><img src="https://img.shields.io/badge/GitHub-Profile-06b6d4?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
