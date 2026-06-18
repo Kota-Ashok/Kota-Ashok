@@ -9,7 +9,7 @@
     <a href="https://github.com/kota-ashok"><img src="https://img.shields.io/badge/GitHub-Profile-06b6d4?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/kota-ashok-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:kotaashok543@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-10b981?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Telemetry-Online-10b981?style=flat-square&logo=cpu&logoColor=white" alt="Telemetry Status" />
+    
   </p>
 </div>
 
